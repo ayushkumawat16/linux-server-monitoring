@@ -1,0 +1,1957 @@
+==============================
+Server Health Report
+Date: Sun Jun 28 07:56:32 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       315Mi       144Mi       2.7Mi       567Mi       592Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  900K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs             91M  8.0K   91M   1% /run/user/1000
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 07:57:03 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       315Mi       144Mi       2.7Mi       567Mi       592Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  900K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs             91M  8.0K   91M   1% /run/user/1000
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 08:09:48 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       315Mi       144Mi       2.7Mi       567Mi       592Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  900K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs             91M  8.0K   91M   1% /run/user/1000
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 08:20:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  5.0 us,  5.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       316Mi       144Mi       2.7Mi       567Mi       592Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  900K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs             91M  8.0K   91M   1% /run/user/1000
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 08:25:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       316Mi       143Mi       2.7Mi       567Mi       592Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  900K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs             91M  8.0K   91M   1% /run/user/1000
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 08:30:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       315Mi       144Mi       2.7Mi       567Mi       593Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  900K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs             91M  8.0K   91M   1% /run/user/1000
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 08:35:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       308Mi       151Mi       2.7Mi       568Mi       600Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 08:40:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       308Mi       151Mi       2.7Mi       568Mi       600Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 08:45:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       308Mi       151Mi       2.7Mi       568Mi       600Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 08:50:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       308Mi       151Mi       2.7Mi       568Mi       600Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 08:55:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       306Mi       128Mi       2.7Mi       593Mi       602Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  884K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 09:00:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  5.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       302Mi       132Mi       2.7Mi       593Mi       606Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 09:05:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       302Mi       132Mi       2.7Mi       593Mi       606Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 09:10:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       302Mi       131Mi       2.7Mi       593Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 09:15:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s): 28.6 us, 23.8 sy,  0.0 ni, 47.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       307Mi       126Mi       2.7Mi       593Mi       600Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  888K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 09:20:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us, 10.0 sy,  0.0 ni, 90.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       131Mi       2.7Mi       593Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 09:25:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       131Mi       2.7Mi       593Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 09:30:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       302Mi       131Mi       2.7Mi       593Mi       606Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 09:35:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       131Mi       2.7Mi       593Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 09:40:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  9.5 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       131Mi       2.7Mi       593Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 09:45:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       131Mi       2.7Mi       593Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 09:50:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       131Mi       2.7Mi       593Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 09:55:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       130Mi       2.7Mi       593Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 10:00:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  4.5 us,  4.5 sy,  0.0 ni, 86.4 id,  0.0 wa,  0.0 hi,  0.0 si,  4.5 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       130Mi       2.7Mi       593Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 10:05:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       130Mi       2.7Mi       593Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 10:10:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  5.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       130Mi       2.7Mi       593Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 10:15:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       130Mi       2.7Mi       594Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 10:20:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  4.8 us,  4.8 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       306Mi       127Mi       2.7Mi       594Mi       601Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  884K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 10:25:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       130Mi       2.7Mi       594Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 10:30:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.5 sy,  0.0 ni, 81.8 id,  0.0 wa,  0.0 hi,  0.0 si, 13.6 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       302Mi       131Mi       2.7Mi       594Mi       606Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 10:35:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       302Mi       131Mi       2.7Mi       594Mi       606Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 10:40:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  5.0 us,  0.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       130Mi       2.7Mi       594Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 10:45:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       130Mi       2.7Mi       594Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 10:50:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       130Mi       2.7Mi       594Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 10:55:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       130Mi       2.7Mi       594Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 11:00:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       130Mi       2.7Mi       594Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 11:05:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       130Mi       2.7Mi       594Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 11:10:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  4.8 us,  4.8 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       130Mi       2.7Mi       594Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 11:15:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       130Mi       2.7Mi       594Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 11:20:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  4.8 us,  4.8 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       129Mi       2.7Mi       594Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 11:25:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       129Mi       2.7Mi       594Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 11:30:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  4.8 us,  4.8 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       129Mi       2.7Mi       594Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 11:35:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       129Mi       2.7Mi       594Mi       604Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 11:40:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       130Mi       2.7Mi       594Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 11:45:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       303Mi       129Mi       2.7Mi       594Mi       605Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 11:50:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       308Mi       125Mi       2.7Mi       594Mi       600Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  884K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 11:55:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       308Mi       125Mi       2.7Mi       594Mi       600Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 12:00:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  4.8 us,  4.8 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       308Mi       125Mi       2.7Mi       594Mi       600Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 12:05:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       308Mi       124Mi       2.7Mi       594Mi       600Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 12:10:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       308Mi       124Mi       2.7Mi       594Mi       600Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  884K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 12:15:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       308Mi       124Mi       2.7Mi       595Mi       599Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 12:20:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       308Mi       123Mi       2.7Mi       595Mi       599Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 12:25:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       309Mi       123Mi       2.7Mi       595Mi       599Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 12:30:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  4.8 us,  4.8 sy,  0.0 ni, 76.2 id,  0.0 wa,  0.0 hi,  0.0 si, 14.3 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       309Mi       123Mi       2.7Mi       595Mi       599Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 12:35:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       305Mi       127Mi       2.7Mi       595Mi       603Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 12:40:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       304Mi       128Mi       2.7Mi       595Mi       604Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 12:45:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       304Mi       128Mi       2.7Mi       595Mi       604Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 12:50:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  5.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       305Mi       125Mi       2.7Mi       596Mi       603Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 12:55:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       305Mi       125Mi       2.7Mi       596Mi       603Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 13:00:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       307Mi       123Mi       2.7Mi       596Mi       601Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 13:05:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       307Mi       123Mi       2.7Mi       596Mi       601Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 13:10:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  5.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       306Mi       124Mi       2.7Mi       596Mi       601Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 13:15:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       306Mi       124Mi       2.7Mi       597Mi       601Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  884K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 13:20:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       307Mi       123Mi       2.7Mi       597Mi       601Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  880K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+
+==============================
+==============================
+Server Health Report
+Date: Sun Jun 28 13:25:01 UTC 2026
+Hostname: ip-172-31-24-0
+==============================
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       316Mi       107Mi       2.7Mi       603Mi       592Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.3G  4.4G  35% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  900K  181M   1% /run
+efivarfs         128K  3.3K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M   96M  827M  11% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs             91M  8.0K   91M   1% /run/user/1000
+
+==============================
